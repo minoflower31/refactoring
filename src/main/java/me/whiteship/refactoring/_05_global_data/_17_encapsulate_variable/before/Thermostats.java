@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._05_global_data._17_encapsulate_variable;
+package me.whiteship.refactoring._05_global_data._17_encapsulate_variable.before;
 
 public class Thermostats {
 
