@@ -1,4 +1,4 @@
-package me.whiteship.refactoring._04_long_parameter_list._16_combine_functinos_into_class;
+package me.whiteship.refactoring._04_long_parameter_list._16_combine_functinos_into_class.after;
 
 import java.util.HashMap;
 import java.util.Map;
