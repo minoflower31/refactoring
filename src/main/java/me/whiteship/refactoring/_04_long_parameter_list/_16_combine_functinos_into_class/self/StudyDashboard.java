@@ -1,6 +1,5 @@
 package me.whiteship.refactoring._04_long_parameter_list._16_combine_functinos_into_class.self;
 
-import me.whiteship.refactoring._04_long_parameter_list._16_combine_functinos_into_class.Participant;
 import org.kohsuke.github.GHIssue;
 import org.kohsuke.github.GHIssueComment;
 import org.kohsuke.github.GHRepository;
